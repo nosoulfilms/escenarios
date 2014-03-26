@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 8ca28695d2b4e47629b871a2a76cb358
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: blendshape
+    100002: bn_chest
+    100004: bn_foot1_l
+    100006: bn_foot1_r
+    100008: bn_foot2_l
+    100010: bn_foot2_r
+    100012: bn_foot_l
+    100014: bn_foot_r
+    100016: bn_knee1_l
+    100018: bn_knee1_r
+    100020: bn_knee2_l
+    100022: bn_knee2_r
+    100024: bn_knee_l
+    100026: bn_knee_r
+    100028: bn_root
+    100030: bn_shoulder1_l
+    100032: bn_shoulder1_r
+    100034: bn_shoulder2_l
+    100036: bn_shoulder2_r
+    100038: bn_shoulder_l
+    100040: bn_shoulder_r
+    100042: bn_tail
+    100044: ctrl_blendshape
+    100046: cupola
+    100048: curveaguijon
+    100050: ears
+    100052: escorpion3
+    100054: //RootNode
+    100056: eyesangry
+    100058: eyescared
+    100060: geometry
+    100062: head
+    100064: neck
+    100066: pinzas
+    100068: skeleton
+    100070: smallhead
+    100072: tail1
+    100074: tail2
+    100076: tail3
+    100078: tail4
+    100080: tail5
+    400000: blendshape
+    400002: bn_chest
+    400004: bn_foot1_l
+    400006: bn_foot1_r
+    400008: bn_foot2_l
+    400010: bn_foot2_r
+    400012: bn_foot_l
+    400014: bn_foot_r
+    400016: bn_knee1_l
+    400018: bn_knee1_r
+    400020: bn_knee2_l
+    400022: bn_knee2_r
+    400024: bn_knee_l
+    400026: bn_knee_r
+    400028: bn_root
+    400030: bn_shoulder1_l
+    400032: bn_shoulder1_r
+    400034: bn_shoulder2_l
+    400036: bn_shoulder2_r
+    400038: bn_shoulder_l
+    400040: bn_shoulder_r
+    400042: bn_tail
+    400044: ctrl_blendshape
+    400046: cupola
+    400048: curveaguijon
+    400050: ears
+    400052: escorpion3
+    400054: //RootNode
+    400056: eyesangry
+    400058: eyescared
+    400060: geometry
+    400062: head
+    400064: neck
+    400066: pinzas
+    400068: skeleton
+    400070: smallhead
+    400072: tail1
+    400074: tail2
+    400076: tail3
+    400078: tail4
+    400080: tail5
+    4300000: escorpion3
+    7400000: alerta
+    9500000: //RootNode
+    13700000: escorpion3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: alerta
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: blendshape
+        weight: 1
+      - path: ctrl_blendshape
+        weight: 1
+      - path: ctrl_blendshape/cupola
+        weight: 1
+      - path: ctrl_blendshape/curveaguijon
+        weight: 1
+      - path: ctrl_blendshape/ears
+        weight: 1
+      - path: ctrl_blendshape/eyesangry
+        weight: 1
+      - path: ctrl_blendshape/eyescared
+        weight: 1
+      - path: ctrl_blendshape/pinzas
+        weight: 1
+      - path: ctrl_blendshape/smallhead
+        weight: 1
+      - path: geometry
+        weight: 1
+      - path: geometry/escorpion3
+        weight: 1
+      - path: skeleton
+        weight: 1
+      - path: skeleton/bn_root
+        weight: 1
+      - path: skeleton/bn_root/bn_chest
+        weight: 1
+      - path: skeleton/bn_root/bn_chest/neck
+        weight: 1
+      - path: skeleton/bn_root/bn_chest/neck/head
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder1_l
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder1_l/bn_knee1_l
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder1_l/bn_knee1_l/bn_foot1_l
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder1_r
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder1_r/bn_knee1_r
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder1_r/bn_knee1_r/bn_foot1_r
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder2_l
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder2_l/bn_knee2_l
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder2_l/bn_knee2_l/bn_foot2_l
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder2_r
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder2_r/bn_knee2_r
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder2_r/bn_knee2_r/bn_foot2_r
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder_l
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder_l/bn_knee_l
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder_l/bn_knee_l/bn_foot_l
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder_r
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder_r/bn_knee_r
+        weight: 1
+      - path: skeleton/bn_root/bn_shoulder_r/bn_knee_r/bn_foot_r
+        weight: 1
+      - path: skeleton/bn_root/bn_tail
+        weight: 1
+      - path: skeleton/bn_root/bn_tail/tail1
+        weight: 1
+      - path: skeleton/bn_root/bn_tail/tail1/tail2
+        weight: 1
+      - path: skeleton/bn_root/bn_tail/tail1/tail2/tail3
+        weight: 1
+      - path: skeleton/bn_root/bn_tail/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: skeleton/bn_root/bn_tail/tail1/tail2/tail3/tail4/tail5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

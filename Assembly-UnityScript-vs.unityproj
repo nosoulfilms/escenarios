@@ -50,9 +50,11 @@
      <Compile Include="Assets\scripts\Camara.js" />
      <Compile Include="Assets\scripts\SmoothFollow.js" />
      <Compile Include="Assets\scripts\activartrampa.js" />
+     <Compile Include="Assets\scripts\botiquin.js" />
      <Compile Include="Assets\scripts\lanzapuas.js" />
      <Compile Include="Assets\scripts\movimientoenemigo.js" />
      <Compile Include="Assets\scripts\playercontroller.js" />
+     <Compile Include="Assets\scripts\playercontrollerviejo.js" />
      <Compile Include="Assets\scripts\trampapinchos.js" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Library\ScriptAssemblies\Assembly-UnityScript-firstpass">

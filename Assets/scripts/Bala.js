@@ -28,4 +28,7 @@ function OnCollisionEnter (colision : Collision) {
 		Destroy  (gameObject);
 		Debug.Log(playercontroller.vida);
 	}
+ if ( colision.gameObject){
+		Destroy  (gameObject); 
  }
+}

@@ -1,10 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\movimientoenemigo.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/playercontroller.js">
     <Files>
-      <File FileName="Assets\scripts\trampapinchos.js" Line="1" Column="1" />
-      <File FileName="Assets\scripts\lanzapuas.js" Line="7" Column="21" />
-      <File FileName="Assets\scripts\movimientoenemigo.js" Line="75" Column="1" />
+      <File FileName="Assets/scripts/playercontroller.js" Line="101" Column="34" />
+      <File FileName="Assets/scripts/Bala.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/playercontrollerviejo.js" Line="65" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
